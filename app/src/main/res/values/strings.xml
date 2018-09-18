@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Task</string>
+    <string name="call">Calling via CellOne 01</string>
+    <string name="image">image</string>
+    <string name="dial_number">1503</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="call_end">Call end.</string>
+    <string name="my_service">my_service</string>
+    <string name="my_back_service">My Background Service</string>
+</resources>
